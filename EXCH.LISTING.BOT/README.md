@@ -1,5 +1,5 @@
 # About
-t.me/CryptoExchangeListing is a Telegram channel that automatically publishes updates on deployment of new ERC-20 Ethereum tokens on popular cryptocurrency exchange wallets.
+[t.me/CryptoExchangeListing](https://t.me/CryptoExchangeListing) is a Telegram channel that automatically publishes updates on deployment of new ERC-20 Ethereum tokens on popular cryptocurrency exchange wallets.
 
 Full descriptions:
 - https://goo.gl/5XMGHy - english
@@ -18,7 +18,6 @@ Before listing and ERC-20 token an exchange first runs a test on its wallets. Th
 It should however be noted that the appearance of a new token on an exchange wallet doesn't necessarily mean it is getting listed: it could be an airdrop, could be somebody sending their tokens on an exchange etc. We use emojis to separate shitcoins from normal coins, that are listed on coinmarketcap.com :)
 
 The software currently monitors the following exchanges:
-
 - Binance
 - Bittrex
 - BitFinex
@@ -56,9 +55,8 @@ Note:
  - the information published on this channel is not financial advice and should not be treated as such.
 
 
-Channel: t.me/CryptoExchangeListing
+Channel: [t.me/CryptoExchangeListing](https://t.me/CryptoExchangeListing)
 
 **For donations:**
-
-ETH: 0x286b6c77708B4dE44CDA68a1D6E59A489E80299b (link)
-BTC: 16Zkjwd6CZjepRwe34scMxghqntqYoh3xP (link)
+- ETH: 0x286b6c77708B4dE44CDA68a1D6E59A489E80299b
+- BTC: 16Zkjwd6CZjepRwe34scMxghqntqYoh3xP
